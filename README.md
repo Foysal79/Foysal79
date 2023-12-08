@@ -1,4 +1,4 @@
-[![MasterHead](https://github.com/Foysal79/Foysal79/blob/main/Navy%20And%20White%20Geometric%20Technology%20%20LinkedIn%20Banner.png?raw=true)](https://rishavchanda.io)
+[![MasterHead](https://github.com/Foysal79/Foysal79/blob/main/Navy%20And%20White%20Geometric%20Technology%20%20LinkedIn%20Banner%20(1).png?raw=true)](https://rishavchanda.io)
 
 <h1 align="center">Hi 👋, I'm Foysal Nur Ontor</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh .</h3>
