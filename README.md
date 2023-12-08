@@ -4,8 +4,16 @@
 
 
 ## 📈 Current Stats
+<br />
 
-[![GitHub Trends SVG](https://api.githubtrends.io/user/svg/avgupta456/langs)](https://githubtrends.io)
+
+
+<p align="center">
+  <img width="60%" src="https://github-readme-streak-stats.herokuapp.com?user=Foysal79&theme=react&hide_border=true&background=0D1117&stroke=0D1117&fire=e6b410&sideLabels=0849c9&currStreakNum=680acc&ring=680acc&currStreakLabel=680acc&sideNums=0849c9" />
+</p>
+
+
+
 
 <h1 align="center">Hi 👋, I'm Foysal Nur Ontor</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh .</h3>
