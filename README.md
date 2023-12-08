@@ -2,6 +2,11 @@
 <img src="https://github.com/Foysal79/Foysal79/blob/main/Navy%20And%20White%20Geometric%20Technology%20%20LinkedIn%20Banner%20(1).png?raw=true" />
 </a>
 
+
+## 📈 : Current Stats
+
+
+
 <h1 align="center">Hi 👋, I'm Foysal Nur Ontor</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh .</h3>
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
