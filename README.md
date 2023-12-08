@@ -14,6 +14,15 @@
 
 
 
+## 📧: Reach me out
+
+<br />
+
+[<p align="center"><img height="75" src="https://github.com/Foysal79/Foysal79/blob/main/linkedin_174857.png?raw=true">](https://www.linkedin.com/in/foysal-nur-onthor/)</p>
+
+<br />
+
+
 
 <h1 align="center">Hi 👋, I'm Foysal Nur Ontor</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh .</h3>
