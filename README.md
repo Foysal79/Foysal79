@@ -3,9 +3,9 @@
 </a>
 
 
-## 📈 : Current Stats
+## 📈 Current Stats
 
-
+[![GitHub Trends SVG](https://api.githubtrends.io/user/svg/avgupta456/langs)](https://githubtrends.io)
 
 <h1 align="center">Hi 👋, I'm Foysal Nur Ontor</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh .</h3>
