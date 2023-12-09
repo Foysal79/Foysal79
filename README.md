@@ -2,6 +2,12 @@
 <img src="https://github.com/Foysal79/Foysal79/blob/main/Navy%20And%20White%20Geometric%20Technology%20%20LinkedIn%20Banner%20(1).png?raw=true" />
 </a>
 
+<br />
+
+# 👨‍🦱 About us
+<p>
+  I am Web Devloper . I craft interactive web experiences by combining HTML5, CSS3, and JavaScript. Proficient in MERN (MongoDB, Express.js, React.js, Node.js), I build OnTrip, full-stack applications, leveraging each technology's strengths to create dynamic and engaging digital solutions.
+</p>
 
 ## 📈 Current Stats
 <br />
