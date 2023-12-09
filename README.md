@@ -61,9 +61,10 @@
 
 
 
-### 🔭 I’m Web Developer 
+### 🔭 I’m Web Developer .
+### 🏁 trarget next 2 year juior web developer to senior web developer .
 ### 🌱 I’m exploring - MERN Stack .
-### 🤔 I’m trying - To help people learn web development. 
+### 🤔 I’m trying - To  learn algorithom and data Strature. 
 ### ⚡ Fun fact - I love to make complex origami and I can speak 3 languages.
 ### 📫 my Email **foysal.nur.onthor@gmail.com**
 
