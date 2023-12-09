@@ -70,7 +70,7 @@
 
 <br />
 
-# ♟️: Latest Project
+# ♟️ Latest Project
 <br />
 
 ✈️ **OnTrip ( Travel Guide Website )**
@@ -111,7 +111,7 @@ package tourist can book .</li>
 <br />
 
 
-🛍️ **Brand-Shop ( Online Shopping website ) **
+🛍️ **Brand-Shop ( Online Shopping website )**
 
 [Brand-Shop Live Link](https://leafy-lokum-545b2b.netlify.app/)
 
