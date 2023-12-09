@@ -4,7 +4,7 @@
 
 <br />
 
-# 👨‍🦱 About us
+# 👨‍🦱 About Me
 <p>
   I am Web Devloper . I craft interactive web experiences by combining HTML5, CSS3, and JavaScript. Proficient in MERN (MongoDB, Express.js, React.js, Node.js), I build OnTrip, full-stack applications, leveraging each technology's strengths to create dynamic and engaging digital solutions.
 </p>
