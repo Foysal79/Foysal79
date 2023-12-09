@@ -70,11 +70,11 @@
 
 <br />
 
-## ♟️: Latest Project
+# ♟️: Latest Project
 <br />
 
-🚅 **OnTrip ( Travel Guide Website )**
-<br />
+✈️ **OnTrip ( Travel Guide Website )**
+
 [OnTrip Live Link](https://goexplor-e8ca8.web.app/)
 
 admin Gmail : admin@gmail.com .
@@ -87,6 +87,43 @@ adventure and choose your guide for an unparalleled travel
 experience .</li>
   <li>Tourists review guides, and share travel tales on OnTrip's platform .</li>
   <li>Three role of OnTrip Website - Admin, Guide, Tourist .</li>
+
+</ul>
+
+<br />
+
+
+🚗 **GoExplor ( Agency base Travel Website )**
+
+[GoExplor Live Link](https://goexplor-e8ca8.web.app/)
+
+
+
+<ul>
+  <li>GoExplor Totally agency base tur travel guide . difference agencies can add the packages and if tourist like
+package tourist can book .</li>
+  <li>Login & Registration systems using firebase .
+</li>
+  <li>If user is login user , he or she can add any travel service and delate and update own Added Package.</li>
+
+</ul>
+
+<br />
+
+
+🛍️ **Brand-Shop ( Online Shopping website ) **
+
+[Brand-Shop Live Link](https://leafy-lokum-545b2b.netlify.app/)
+
+
+
+<ul>
+  <li>This platform empowers customers to procure premium fashion and apparel from world-class luxury brands .</li>
+  <li>Easily categorize and update products of your choice with personalized preferences using this website's
+interface .
+</li>
+  <li>Any Products Purchased by the customer will be displayed directly in the My Card session .
+</li>
 
 </ul>
 
