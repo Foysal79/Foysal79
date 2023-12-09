@@ -70,6 +70,35 @@
 
 <br />
 
+## ♟️: Latest Project
+<br />
+
+🚅 **OnTrip ( Travel Guide Website )**
+<br />
+[OnTrip Live Link](https://goexplor-e8ca8.web.app/)
+
+admin Gmail : admin@gmail.com .
+<br />
+password : admin@gmail.com .
+
+<ul>
+  <li>Select your ideal tour package at OnTrip, where you curate your
+adventure and choose your guide for an unparalleled travel
+experience .</li>
+  <li>Tourists review guides, and share travel tales on OnTrip's platform .</li>
+  <li>Three role of OnTrip Website - Admin, Guide, Tourist .</li>
+
+</ul>
+
+
+
+
+
+
+
+
+
+
 
 
 
