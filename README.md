@@ -41,22 +41,23 @@
 <br>
 
 <p align="center">
-<img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/HTML.png"/>
-<img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/css.png"/>
-  <img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/tailwind.png"/>
-  
-<img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/react.png"/>
-<img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/JavaScript.png"/>
+## Programming Languages: ##  JavaScript, TypeScript, C++, C#, Python
 
-<img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/c.png"/>
-<img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/cpp.png"/>
+Frontend Development: React.js, Next.js, Redux, Redux Toolkit
 
+Backend Development: Node.js, Express.js, REST API, GraphQL
 
+Databases & ORM: PostgreSQL, MongoDB, Mongoose, Prisma
 
-<img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/firebase.png"/>
-<img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/node.png"/>
-<img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/express.png"/>
-<img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/mongo.png"/>
+Testing & Tools: Testing Titan, Postman, Docker
+
+Version Control & Collaboration: Git, GitHub
+
+Software Engineering Principles: Object-Oriented Programming (OOP), SOLID Principles, Design Patterns
+
+Other Skills: Data Structures & Algorithms (DSA), System Design, Problem Solving
+
+Project Management & Methodologies: Agile, Scrum, Jira, Trello
 
 
 </p>
