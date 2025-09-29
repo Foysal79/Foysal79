@@ -34,43 +34,106 @@
 
 <br />
 
+---
 
+## 🖥️ Technologies That I Know  
 
-## 🖥️: Technologies that I know
-
-<br>
-
-<p align="center">
-## Programming Languages: ##  JavaScript, TypeScript, C++, C#, Python
-
-Frontend Development: React.js, Next.js, Redux, Redux Toolkit
-
-Backend Development: Node.js, Express.js, REST API, GraphQL
-
-Databases & ORM: PostgreSQL, MongoDB, Mongoose, Prisma
-
-Testing & Tools: Testing Titan, Postman, Docker
-
-Version Control & Collaboration: Git, GitHub
-
-Software Engineering Principles: Object-Oriented Programming (OOP), SOLID Principles, Design Patterns
-
-Other Skills: Data Structures & Algorithms (DSA), System Design, Problem Solving
-
-Project Management & Methodologies: Agile, Scrum, Jira, Trello
-
-
-</p>
 <br/>
+
+<table>
+<tr>
+<td valign="top">
+
+### 🔹 Programming Languages
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)  
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)  
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
+
+</td>
+<td valign="top">
+
+### 🎨 Frontend Development
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)  
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)  
+![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)  
+![Redux Toolkit](https://img.shields.io/badge/Redux%20Toolkit-764ABC?style=for-the-badge&logo=redux&logoColor=white)  
+
+</td>
+<td valign="top">
+
+### ⚙️ Backend Development
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)  
+![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)  
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)  
+![REST API](https://img.shields.io/badge/REST%20API-FF6C37?style=for-the-badge)  
+
+</td>
+<td valign="top">
+
+### 🗄️ Databases & ORM
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)  
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)  
+![Mongoose](https://img.shields.io/badge/Mongoose-D44454?style=for-the-badge&logo=mongoose&logoColor=white)  
+![Prisma](https://img.shields.io/badge/Prisma-0C344B?style=for-the-badge&logo=prisma&logoColor=white)  
+
+</td>
+</tr>
+<tr>
+<td valign="top">
+
+### 🧪 Testing & Tools
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)  
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)  
+![Testing Titan](https://img.shields.io/badge/Testing%20Titan-8A2BE2?style=for-the-badge&logoColor=white)  
+
+</td>
+<td valign="top">
+
+### 🔗 Version Control & Collaboration
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)  
+
+</td>
+<td valign="top">
+
+### 📐 Software Engineering Principles
+![OOP](https://img.shields.io/badge/OOP-008080?style=for-the-badge&logoColor=white)  
+![DSA](https://img.shields.io/badge/DSA-FF4500?style=for-the-badge&logoColor=white)  
+![SOLID](https://img.shields.io/badge/SOLID-00008B?style=for-the-badge&logoColor=white)  
+![Design Patterns](https://img.shields.io/badge/Design%20Patterns-6A5ACD?style=for-the-badge&logoColor=white)  
+![System Design](https://img.shields.io/badge/System%20Design-20B2AA?style=for-the-badge&logoColor=white)  
+![Problem Solving](https://img.shields.io/badge/Problem%20Solving-FF6347?style=for-the-badge&logoColor=white)  
+
+</td>
+<td valign="top">
+
+### 🧩 Other Skills
+![Agile](https://img.shields.io/badge/Agile-FF8C00?style=for-the-badge&logoColor=white)  
+![Scrum](https://img.shields.io/badge/Scrum-4B0082?style=for-the-badge&logoColor=white)  
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)  
+![Trello](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white)  
+
+</td>
+</tr>
+</table>
+
+
+
+
+
+---
+
 
 
 ## :eyes: Current overview
 
 
 
-### 🔭 I’m Web Developer .
-### 🏁 trarget next 2 year juior web developer to senior web developer .
-### 🌱 I’m exploring - MERN Stack .
+### 🔭 I’m Full Stack Developer .
+### 🏁 trarget next 2 year juior web developer -> senior web developer .
+### 🌱 I’m exploring - FULL Stack .
 ### 🤔 I’m trying - To  learn algorithom and data Strature. 
 ### ⚡ Fun fact - I love to make complex origami and I can speak 3 languages.
 ### 📫 my Email **foysal.nur.onthor@gmail.com**
