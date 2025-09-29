@@ -4,35 +4,33 @@
 
 <br />
 
-# 👨‍🦱 About Me
-<p>
-  I am Web Devloper . I craft interactive web experiences by combining HTML5, CSS3, and JavaScript. Proficient in MERN (MongoDB, Express.js, React.js, Node.js), I build OnTrip, full-stack applications, leveraging each technology's strengths to create dynamic and engaging digital solutions.
-</p>
+# 👨‍💻 About Me
+I am **Foysal Nur Ontor Shikder**, a Study Computer Engineer from Chittagong, Bangladesh.  
+With some years of experience, I build **efficient and scalable software solutions** using **JavaScript, C++, C#, Python**, and modern web technologies. I have strong problem-solving, analytical, and system design skills and thrive in Agile team environments.
 
+---
 ## 📈 Current Stats
 <br />
-
-
-
 <p align="center">
   <img width="60%" src="https://github-readme-streak-stats.herokuapp.com?user=Foysal79&theme=react&hide_border=true&background=0D1117&stroke=0D1117&fire=e6b410&sideLabels=0849c9&currStreakNum=680acc&ring=680acc&currStreakLabel=680acc&sideNums=0849c9" />
 </p>
 
+---
 
 
-## 📧: Reach me out
-
-<br />
-
+## 📬 Get in Touch
 
 <p align="center">
-<a align="center"  href="https://www.linkedin.com/in/foysal-nur-onthor/" target="blank">
-<img  src="https://github.com/Foysal79/Foysal79/blob/main/linkedin_174857.png?raw=true" alt="onthor_79" height="75" width="75" />
-
-</a>
+  <a href="https://www.linkedin.com/in/foysal-nur-onthor/" target="_blank">
+    <img src="https://github.com/Foysal79/Foysal79/blob/main/linkedin_174857.png?raw=true" alt="LinkedIn" height="75" width="75" />
+  </a>
 </p>
 
-<br />
+<p align="center">
+  <b>Email:</b> <a href="mailto:foysal.nur.onthor@gmail.com">foysal.nur.onthor@gmail.com</a><br />
+  <b>Phone:</b> <a href="tel:+8801879953325">+8801879953325</a> | <a href="tel:+8801873189853">+8801873189853</a>
+</p>
+
 
 ---
 
@@ -127,19 +125,87 @@
 
 
 
-## :eyes: Current overview
+## 🏆 Problem Solving & Competitive Programming
+
+<p align="left" style="line-height: 1.5;">
+
+<a href="https://codeforces.com/profile/who_I_Am_79" target="_blank">
+  <img src="https://img.shields.io/badge/Codeforces-1097+_Rating-blue?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces"/>
+</a>
+<span style="font-weight:bold; margin-left:8px;">Solved 800+ problems</span><br>
+
+<a href="https://www.codechef.com/users/who_i_am_79" target="_blank">
+  <img src="https://img.shields.io/badge/CodeChef-3★_Rating-orange?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef"/>
+</a>
+<span style="font-weight:bold; margin-left:8px;">Solved 300+ problems</span><br>
+
+<a href="https://leetcode.com/who_i_am_79/" target="_blank">
+  <img src="https://img.shields.io/badge/LeetCode-400+_Problems-orange?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"/>
+</a>
+<span style="font-weight:bold; margin-left:8px;">Focused on Algorithms & DSA</span><br>
+
+<a href="https://www.hackerrank.com/foysal79" target="_blank">
+  <img src="https://img.shields.io/badge/HackerRank-100+_Challenges-green?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank"/>
+</a>
+<span style="font-weight:bold; margin-left:8px;">Completed 100+ coding challenges</span><br>
+
+<a href="https://neetcode.io/" target="_blank">
+  <img src="https://img.shields.io/badge/NeetCode-400+_Problems-blue?style=for-the-badge&logo=neetcode&logoColor=white" alt="NeetCode"/>
+</a>
+<span style="font-weight:bold; margin-left:8px;">Practiced 400+ problems for interview prep</span>
+
+</p>
 
 
 
-### 🔭 I’m Full Stack Developer .
-### 🏁 trarget next 2 year juior web developer -> senior web developer .
-### 🌱 I’m exploring - FULL Stack .
-### 🤔 I’m trying - To  learn algorithom and data Strature. 
-### ⚡ Fun fact - I love to make complex origami and I can speak 3 languages.
-### 📫 my Email **foysal.nur.onthor@gmail.com**
 
 
-<br />
+---
+
+## 💼 Professional Experience
+
+### LUMIJOBS (Hiring Agency) – Team Project
+- Optimize job postings, real-time updates, application tracking, and interview scheduling.  
+- Personalized profiles, detailed resumes, diverse user roles.  
+- Feedback integration, collaboration hubs, blogs for transparency.  
+- **Tech Stack:** TailwindCSS, JavaScript, TypeScript, React.js, Axios, TanStack Query, DnD, Stripe, Node.js, Express.js, MongoDB  
+- [Live URL](https://lumijobs-84d3b.web.app/) | [Client Code](https://github.com/msasif2000/LumiJob-Client/tree/main) | [Server Code](https://github.com/msasif2000/LumiJob-Server)  
+
+---
+
+## 🎓 Education
+
+<p align="left" style="line-height:1.5;">
+
+🎓 **B.Sc. in CSE** - International Islamic University Chittagong  
+![Duration](https://img.shields.io/badge/Aug%202020%E2%80%93Aug%202025-007ACC?style=for-the-badge&logo=calendar&logoColor=white)  
+📚 Focus: Full Stack Development, SQL & NoSQL, DSA, Software Engineering, Machine Learning  
+
+🎓 **Complete Web Development Course** - Programming Hero  
+![Duration](https://img.shields.io/badge/July%202023%E2%80%93Dec%202023-FF5733?style=for-the-badge&logo=calendar&logoColor=white)  
+📚 Covered: Frontend & Backend Technologies, Practical Project Work  
+
+</p>
+
+
+
+---
+
+## 🌱 Current Goals
+
+<p align="left" style="line-height:1.5;">
+
+![Goal](https://img.shields.io/badge/Goal-Senior%20Web%20Developer-blue?style=for-the-badge&logo=dev&logoColor=white)  
+![Goal](https://img.shields.io/badge/Goal-MERN%20Stack%20%26%20Algorithms-green?style=for-the-badge&logo=react&logoColor=white)  
+![Goal](https://img.shields.io/badge/Goal-Scalable%20%26%20Maintainable%20Code-orange?style=for-the-badge&logo=github&logoColor=white)  
+
+</p>
+
+
+---
+
+## ⚡ Fun Fact
+- Love **complex origami** and **speak 3 languages**
 
 # ♟️ Latest Project
 <br />
