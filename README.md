@@ -125,34 +125,28 @@ With some years of experience, I build **efficient and scalable software solutio
 
 
 
-## 🏆 Problem Solving & Competitive Programming
+## 🏆 Problem Solving 
 
 <p align="left" style="line-height: 1.5;">
 
 <a href="https://codeforces.com/profile/who_I_Am_79" target="_blank">
   <img src="https://img.shields.io/badge/Codeforces-1097+_Rating-blue?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces"/>
 </a>
-<span style="font-weight:bold; margin-left:8px;">Solved 800+ problems</span><br>
+<span style="font-weight:bold; margin-left:8px;">Solved 200+ problems</span><br>
 
 <a href="https://www.codechef.com/users/who_i_am_79" target="_blank">
-  <img src="https://img.shields.io/badge/CodeChef-3★_Rating-orange?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef"/>
+  <img src="https://img.shields.io/badge/CodeChef-★-orange?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef"/>
 </a>
-<span style="font-weight:bold; margin-left:8px;">Solved 300+ problems</span><br>
+<span style="font-weight:bold; margin-left:8px;">Solved 100 problems</span><br>
 
 <a href="https://leetcode.com/who_i_am_79/" target="_blank">
-  <img src="https://img.shields.io/badge/LeetCode-400+_Problems-orange?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"/>
+  <img src="https://img.shields.io/badge/LeetCode-50+_Problems-orange?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"/>
 </a>
 <span style="font-weight:bold; margin-left:8px;">Focused on Algorithms & DSA</span><br>
 
-<a href="https://www.hackerrank.com/foysal79" target="_blank">
-  <img src="https://img.shields.io/badge/HackerRank-100+_Challenges-green?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank"/>
-</a>
-<span style="font-weight:bold; margin-left:8px;">Completed 100+ coding challenges</span><br>
 
-<a href="https://neetcode.io/" target="_blank">
-  <img src="https://img.shields.io/badge/NeetCode-400+_Problems-blue?style=for-the-badge&logo=neetcode&logoColor=white" alt="NeetCode"/>
-</a>
-<span style="font-weight:bold; margin-left:8px;">Practiced 400+ problems for interview prep</span>
+
+
 
 </p>
 
