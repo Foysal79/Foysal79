@@ -4,10 +4,27 @@
 
 <br />
 
-# 👨‍💻 About Me
-I am **Foysal Nur Ontor Shikder**, a Study Computer Engineer from Chittagong, Bangladesh.  
-With some years of experience, I build **efficient and scalable software solutions** using **JavaScript, C++, C#, Python**, and modern web technologies. I have strong problem-solving, analytical, and system design skills and thrive in Agile team environments.
 
+# Hi, I'm Foysal 👋
+
+🚀 MERN Stack Developer with a strong backend focus and solid problem-solving skills.
+
+## 🧠 What I Do
+- Build scalable web applications using **Next.js** and **React.js**
+- Design and develop **RESTful APIs** with **Node.js** and **Express**
+- Write clean, maintainable code with **TypeScript**
+- Practice **DSA & problem solving** to improve logical thinking
+
+## 🛠 Tech Stack
+**Frontend:** Next.js, React.js  
+**Backend:** Node.js, Express.js  
+**Languages:** JavaScript, TypeScript  
+**Core Skills:** REST APIs, DSA, Problem Solving  
+
+## 🎯 Current Focus
+- Strengthening backend architecture
+- Improving data structures & algorithms
+- Building real-world full-stack projects
 ---
 ## 📈 Current Stats
 <br />
