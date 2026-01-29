@@ -29,8 +29,12 @@
 ## 📈 Current Stats
 <br />
 <p align="center">
-  <img width="60%" src="https://github-readme-streak-stats.herokuapp.com?user=Foysal79&theme=react&hide_border=true&background=0D1117&stroke=0D1117&fire=e6b410&sideLabels=0849c9&currStreakNum=680acc&ring=680acc&currStreakLabel=680acc&sideNums=0849c9" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=Foysal79&theme=react&hide_border=true&background=0D1117" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Foysal79&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" />
 </p>
+
+
+
 
 ---
 
